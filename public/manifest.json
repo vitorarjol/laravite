@@ -1,0 +1,7 @@
+{
+  "resources/js/app.js": {
+    "file": "assets/my-custom-script.e2ac628a.js",
+    "src": "resources/js/app.js",
+    "isEntry": true
+  }
+}
